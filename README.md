@@ -48,6 +48,7 @@ https://github.com/AnjaniGupta15/Phone_pay_analysis/blob/fd5d0fa2ac63d4f05f7e495
 This project demonstrates practical **Data Analyst skills** by converting transaction data into an interactive dashboard and identifying useful patterns in payment behavior, user activity, service performance, and transaction growth.
 
 ## 📊 Dashboard Preview
+https://github.com/AnjaniGupta15/Phone_pay_analysis/blob/d06074b21df96ff4539502c5da0f9f434c354fa4/dashboard_screenshot%20.png
 
 dashboard_screenshot .png
 
