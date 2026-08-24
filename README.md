@@ -1,7 +1,54 @@
-# Phone_pay_analysis
-📱 Interactive Power BI dashboard analyzing PhonePe transactions, user behavior, service performance &amp; payment trends. 🚀 Includes MoM growth, unique users, age segments, top users, time trends &amp; payment status. 🛠️ Built using Power BI, DAX, data analysis &amp; visualization to generate meaningful insights. 📊✨
+# 📱 PhonePe Payment Insights Dashboard 📊
+
+An interactive **Power BI dashboard** built to analyze PhonePe payment transactions, user behavior, service performance, and transaction trends. 🚀
+
+## 🎯 Project Objective
+
+The objective of this project is to transform PhonePe transaction data into meaningful insights using **data analysis, DAX, KPIs, and interactive visualizations**. 📈
+
+## 🔍 Key Analysis
+
+* 💰 Total Transactions & Transaction Value
+* 📈 Month-on-Month (MoM) Growth Analysis
+* 👥 Unique Users & Successful Transaction Rate
+* 📅 Transactions Over Time
+* 🎂 Age Segment Contribution
+* 💳 Service-wise Transaction Value Analysis
+* 🏆 Top 5 Users by Transaction Value
+* 🗓️ Weekday vs Weekend Usage
+* ✅❌ Payment Status Analysis — Successful, Failed & Pending
+
+## 🛠️ Tools & Technologies
+
+* 📊 **Power BI**
+* 🧮 **DAX**
+* 🔍 **Data Analysis**
+* 📈 **Data Visualization**
+
+## 📊 Power BI Dashboard
+
+🔗 **[View Interactive Power BI Dashboard](YOUR_POWER_BI_LINK)**
+
+## 📁 Project Files
+
+* 📊 Power BI Dashboard (`.pbix`)
+* 📄 Dataset
+* 📖 README.md
+
+## 💡 Skills Demonstrated
+
+✨ Data Analysis
+✨ Data Cleaning & Transformation
+✨ DAX & KPI Development
+✨ Data Visualization
+✨ Interactive Dashboard Design
+
+## 🚀 Conclusion
+
+This project demonstrates practical **Data Analyst skills** by converting transaction data into an interactive dashboard and identifying useful patterns in payment behavior, user activity, service performance, and transaction growth.
+
 ## 📊 Dashboard Preview
 
 ![PhonePe Dashboard](Dashboard.png)
 
-🔗 [View Interactive Power BI Dashboard]()
+🔗 [View Interactive Power BI Dashboard](Phone pay_analysis_.pbix)
