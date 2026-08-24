@@ -27,7 +27,7 @@ The objective of this project is to transform PhonePe transaction data into mean
 
 ## 📊 Power BI Dashboard
 
-🔗 **[View Interactive Power BI Dashboard](Phone pay_analysis_.pbix)**
+https://github.com/AnjaniGupta15/Phone_pay_analysis/blob/fd5d0fa2ac63d4f05f7e495223b6aff02e4a137f/Phone%20pay_analysis_.pbix
 
 ## 📁 Project Files
 
