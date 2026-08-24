@@ -50,8 +50,6 @@ This project demonstrates practical **Data Analyst skills** by converting transa
 ## 📊 Dashboard Preview
 https://github.com/AnjaniGupta15/Phone_pay_analysis/blob/d06074b21df96ff4539502c5da0f9f434c354fa4/dashboard_screenshot%20.png
 
-dashboard_screenshot .png
 
-!(Dashboard.png)
 
 
