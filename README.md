@@ -49,6 +49,6 @@ This project demonstrates practical **Data Analyst skills** by converting transa
 
 ## 📊 Dashboard Preview
 
-![PhonePe Dashboard](Dashboard.png)
+!(Dashboard.png)
 
-🔗 [View Interactive Power BI Dashboard](Phone pay_analysis_.pbix)
+🔗(Phone pay_analysis_.pbix)
