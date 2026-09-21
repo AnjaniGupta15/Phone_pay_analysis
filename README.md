@@ -1,55 +1,137 @@
-# 📱 PhonePe Payment Insights Dashboard 📊
+# 📊 PhonePe Payment Analytics
 
-An interactive **Power BI dashboard** built to analyze PhonePe payment transactions, user behavior, service performance, and transaction trends. 🚀
+An end-to-end **Data Analytics project** focused on analyzing PhonePe payment transactions, customer behavior, service performance, and payment success rates using **Excel, SQL, Python, and Power BI**.
+
+---
 
 ## 🎯 Project Objective
 
-The objective of this project is to transform PhonePe transaction data into meaningful insights using **data analysis, DAX, KPIs, and interactive visualizations**. 📈
+The objective of this project is to transform raw payment transaction data into meaningful business insights by performing data cleaning, KPI analysis, SQL-based analysis, exploratory data analysis, and interactive visualization.
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| 📗 Excel | Data Cleaning & KPI Analysis |
+| 🗄️ MySQL | SQL Analysis & Business Queries |
+| 🐍 Python | Data Cleaning, EDA & Visualization |
+| 📊 Power BI | Interactive Dashboard |
+| 🐼 Pandas | Data Manipulation |
+| 🔢 NumPy | Numerical Analysis |
+| 📈 Matplotlib | Data Visualization |
+
+---
 
 ## 🔍 Key Analysis
 
-* 💰 Total Transactions & Transaction Value
-* 📈 Month-on-Month (MoM) Growth Analysis
-* 👥 Unique Users & Successful Transaction Rate
-* 📅 Transactions Over Time
-* 🎂 Age Segment Contribution
-* 💳 Service-wise Transaction Value Analysis
-* 🏆 Top 5 Users by Transaction Value
-* 🗓️ Weekday vs Weekend Usage
-* ✅❌ Payment Status Analysis — Successful, Failed & Pending
+### 📗 Excel
+- Data cleaning and validation
+- Total Transactions
+- Total Transaction Value
+- Average Transaction Value
+- Successful Transactions
+- Success Rate
 
-## 🛠️ Tools & Technologies
+### 🗄️ SQL
+- Transaction volume and total transaction value
+- Payment status analysis
+- Service-wise transaction analysis
+- Monthly transaction trends
+- Top users by transaction value
+- User and transaction JOIN analysis
+- Monthly payment success rate
 
-* 📊 **Power BI**
-* 🧮 **DAX**
-* 🔍 **Data Analysis**
-* 📈 **Data Visualization**
+### 🐍 Python
+- Data preprocessing
+- Service-wise analysis
+- Payment status analysis
+- Service Type analysis
+- Monthly transaction trends
+- Transaction amount distribution
+- Top users analysis
+- Transaction reason analysis
+- Age-group analysis
+- Exploratory data visualizations
 
-## 📊 Power BI Dashboard
+### 📊 Power BI
+Interactive dashboard covering:
+- Total Transactions
+- Total Transaction Value
+- Successful Transaction Rate
+- Monthly Transaction Trends
+- Service-wise Performance
+- Age Segment Analysis
+- Top Users
+- Payment Status
+- Weekday vs Weekend Analysis
 
-https://github.com/AnjaniGupta15/Phone_pay_analysis/blob/fd5d0fa2ac63d4f05f7e495223b6aff02e4a137f/Phone%20pay_analysis_.pbix
+---
 
-## 📁 Project Files
+## 📌 Key KPIs
 
-* 📊 Power BI Dashboard (`.pbix`)
-* 📄 Dataset
-* 📖 README.md
+- **Total Transactions:** 300,000
+- **Total Transaction Value:** ₹347.43M
+- **Average Transaction Value:** ₹11.58K
+- **Successful Transactions:** 287,993
+- **Success Rate:** ~96%
 
-## 💡 Skills Demonstrated
+---
 
-✨ Data Analysis
-✨ Data Cleaning & Transformation
-✨ DAX & KPI Development
-✨ Data Visualization
-✨ Interactive Dashboard Design
-
-## 🚀 Conclusion
-
-This project demonstrates practical **Data Analyst skills** by converting transaction data into an interactive dashboard and identifying useful patterns in payment behavior, user activity, service performance, and transaction growth.
-
-## 📊 Dashboard Preview
-https://github.com/AnjaniGupta15/Phone_pay_analysis/blob/d06074b21df96ff4539502c5da0f9f434c354fa4/dashboard_screenshot%20.png
+## 📂 Project Structure
 
 
+PhonePe-Payment-Analytics/
+│
+├── 📗 1 final data set
+├── 🗄️ phone_pay.sql
+├── 🐍 phone_payipynb.ipynb
+├── 📊 PhonePe Power BI Dashboard
+└── 📄 README.md
+└── 🗄️dashboard_screenshot
 
 
+
+📈 Project Workflow
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Excel KPI Analysis
+   ↓
+SQL Business Analysis
+   ↓
+Python EDA
+   ↓
+Power BI Dashboard
+   ↓
+Business Insights
+
+
+💡 Business Insights
+
+This project helps understand:
+
+Overall transaction performance
+Payment success and failure patterns
+Service-wise transaction contribution
+Monthly transaction trends
+High-value users
+Customer age-group behavior
+Transaction amount distribution
+Factors associated with unsuccessful transactions
+
+
+
+🎓 Skills Demonstrated
+
+Data Analysis • Data Cleaning • Excel • SQL • Python • Pandas • NumPy • EDA • Data Visualization • Power BI • Business Intelligence • KPI Analysis • Data-driven Insights
+
+👩‍💻 Author
+
+Anjani Gupta
+
+B.Tech – Data Science
+
+📌 Data Analyst | Data Science Enthusiast
